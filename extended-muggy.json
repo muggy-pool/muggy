@@ -1,0 +1,39 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://muggy-pool.github.io/muggy/muggy.png",
+        "url_png_logo": "https://muggy-pool.github.io/muggy/muggy.png",
+        "location": "Colorado, USA",
+        "social": {
+            "twitter_handle": "Muggy_Pool",
+            "telegram_handle": "Muggy_Pool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "",
+            "company": ""
+        },
+        "rss": ""
+    },
+    "my-pool-ids": {
+        "0": "4044aa415dec3609dcab41faa19b643719b9521ef16eb35945a64bd9"
+    },
+    "when-satured-then-recommend": {
+    },
+    "telegram-admin-handle": {
+    },
+    "adapools_ext": {
+    }
+}
