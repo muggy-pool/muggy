@@ -9,7 +9,7 @@
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
-            "discord_handle": "",
+            "discord_handle": "714292195649126414",
             "github_handle": ""
         },
         "company": {
@@ -21,9 +21,9 @@
             "vat_id": ""
         },
         "about": {
-            "me": "",
-            "server": "",
-            "company": ""
+            "me": "Systems Security Engineer and Blockchain SysOps Developer",
+            "server": "We maintain a mixture of Cloud and Bare Metal systems on Main and Test Cardano nets.",
+            "company": "Systems Solutions Support"
         },
         "rss": ""
     },
