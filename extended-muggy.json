@@ -2,7 +2,7 @@
     "info": {
         "url_png_icon_64x64": "https://muggy-pool.github.io/muggy/muggy.png",
         "url_png_logo": "https://muggy-pool.github.io/muggy/muggy.png",
-        "location": "Colorado, USA",
+        "location": "Goguen, Cardano",
         "social": {
             "twitter_handle": "Muggy_Pool",
             "telegram_handle": "Muggy_Pool",
@@ -21,9 +21,9 @@
             "vat_id": ""
         },
         "about": {
-            "me": "Systems Security Engineer and Blockchain SysOps Developer",
+            "me": "Single Pool Operator and Blockchain SysOps Developer",
             "server": "We maintain a mixture of Cloud and Bare Metal systems on the Cardano MainNet and TestNet Blockchains",
-            "company": "Systems Solutions Developer with Professional experience maintaining 24/7 critical Linux Nodes. The Pool was named in memory of our GrandMother. Her spirit continues on the Blockchain checking slots and minting blocks. 0% Fees for the rest of 2020."
+            "company": "Systems Solutions Developer with professional experience maintaining 24/7 critical Linux Nodes. The Pool was named in memory of our GrandMother. Her spirit continues on the Blockchain checking slots and minting blocks. 0% fees for the rest of 2020."
         },
         "rss": ""
     },
